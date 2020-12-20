@@ -1,0 +1,182 @@
+{
+    "TRANSLATOR.SELECT": "Select your language",
+    "MENU.NEW": "new",
+    "MENU.ACTIONS": "Actions",
+    "MENU.CREATE_POST": "Create New Post",
+    "MENU.PAGES": "Pages",
+    "MENU.FEATURES": "Features",
+    "MENU.APPS": "Apps",
+    "MENU.DASHBOARD": "Güncel Durumum",
+    "AUTH.GENERAL.OR": "Or",
+    "AUTH.GENERAL.SUBMIT_BUTTON": "Submit",
+    "AUTH.GENERAL.NO_ACCOUNT": "Don't have an account?",
+    "AUTH.GENERAL.SIGNUP_BUTTON": "Sign Up",
+    "AUTH.GENERAL.FORGOT_BUTTON": "Forgot Password",
+    "AUTH.GENERAL.BACK_BUTTON": "Back",
+    "AUTH.GENERAL.PRIVACY": "Privacy",
+    "AUTH.GENERAL.LEGAL": "Legal",
+    "AUTH.GENERAL.CONTACT": "Contact",
+    "AUTH.LOGIN.TITLE": "Giriş",
+    "AUTH.LOGIN.BUTTON": "Sign In",
+    "AUTH.FORGOT.TITLE": "Forgotten Password?",
+    "AUTH.FORGOT.DESC": "Enter your email to reset your password",
+    "AUTH.FORGOT.SUCCESS": "Your account has been successfully reset.",
+    "AUTH.REGISTER.TITLE": "Sign Up",
+    "AUTH.REGISTER.DESC": "Enter your details to create your account",
+    "AUTH.REGISTER.SUCCESS": "Your account has been successfuly registered.",
+    "AUTH.INPUT.EMAIL": "Email",
+    "AUTH.INPUT.FULLNAME": "Fullname",
+    "AUTH.INPUT.PASSWORD": "Password",
+    "AUTH.INPUT.CONFIRM_PASSWORD": "Confirm Password",
+    "AUTH.INPUT.USERNAME": "Username",
+    "AUTH.VALIDATION.INVALID": "{name} is not valid",
+    "AUTH.VALIDATION.REQUIRED": "{name} is required",
+    "AUTH.VALIDATION.MIN_LENGTH": "{name}} minimum length is {{min}",
+    "AUTH.VALIDATION.AGREEMENT_REQUIRED": "Accepting terms & conditions are required",
+    "AUTH.VALIDATION.NOT_FOUND": "The requested {name} is not found",
+    "AUTH.VALIDATION.INVALID_LOGIN": "The login detail is incorrect",
+    "AUTH.VALIDATION.REQUIRED_FIELD": "Bu alan gereklidir",
+    "AUTH.VALIDATION.MIN_LENGTH_FIELD": "Minimum field length:",
+    "AUTH.VALIDATION.MAX_LENGTH_FIELD": "Maximum field length:",
+    "AUTH.VALIDATION.INVALID_FIELD": "Field is not valid",
+    "ECOMMERCE.COMMON.SELECTED_RECORDS_COUNT": "Selected records count: ",
+    "ECOMMERCE.COMMON.ALL": "All",
+    "ECOMMERCE.COMMON.SUSPENDED": "Suspended",
+    "ECOMMERCE.COMMON.ACTIVE": "Active",
+    "ECOMMERCE.COMMON.FILTER": "Filter",
+    "ECOMMERCE.COMMON.BY_STATUS": "by Status",
+    "ECOMMERCE.COMMON.BY_TYPE": "by Type",
+    "ECOMMERCE.COMMON.BUSINESS": "Business",
+    "ECOMMERCE.COMMON.INDIVIDUAL": "Individual",
+    "ECOMMERCE.COMMON.SEARCH": "Search",
+    "ECOMMERCE.COMMON.IN_ALL_FIELDS": "in all fields",
+    "ECOMMERCE.ECOMMERCE": "eCommerce",
+    "ECOMMERCE.CUSTOMERS.CUSTOMERS": "Customers",
+    "ECOMMERCE.CUSTOMERS.CUSTOMERS_LIST": "Customers list",
+    "ECOMMERCE.CUSTOMERS.NEW_CUSTOMER": "New Customer",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.TITLE": "Customer Delete",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.DESCRIPTION": "Are you sure to permanently delete this customer?",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.WAIT_DESCRIPTION": "Customer is deleting...",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.MESSAGE": "Customer has been deleted",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.TITLE": "Customers Delete",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.DESCRIPTION": "Are you sure to permanently delete selected customers?",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.WAIT_DESCRIPTION": "Customers are deleting...",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.MESSAGE": "Selected customers have been deleted",
+    "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.TITLE": "Status has been updated for selected customers",
+    "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.MESSAGE": "Selected customers status have successfully been updated",
+    "ECOMMERCE.CUSTOMERS.EDIT.UPDATE_MESSAGE": "Customer has been updated",
+    "ECOMMERCE.CUSTOMERS.EDIT.ADD_MESSAGE": "Customer has been created",
+
+
+
+    "BILLS.NEW":"Yeni Fatura",
+
+
+    "WORKERS.TITLE":"Çalışanlar Listesi",
+    "WORKERS.NEW":"Yeni Çalışan",
+
+
+    "SUPPLIER.TITLE":"Tedarikçiler Listesi",
+    "SUPPLIER.NEW":"Yeni Tedarikçi",
+
+    "OUTLAY.DOCUMENTS.TITLE":"Gider Belgeleri Listesi",
+    "OUTLAY.DOCUMENTS.NEW":"Yeni Fiş Girişi",
+
+
+    
+    "MENU.MAINPAGE": "Anasayfa",
+    "MENU.INCOME": "Gelirler",
+    "MENU.OUTLAY": "Giderler",
+    "MENU.CASH": "Nakit",
+    "MENU.PRODUCTS": "Ürünler",
+    "MENU.E-DOCUMENT": "E-Belge",
+    "MENU.REPORTS": "Raporlar",
+    "MENU.BANKS":"Kasa ve Bankalar",
+    "MENU.CHEQUE": "Çekler",
+    "MENU.OUTLAY.DOCUMENTS":"Gider Belgeleri",
+    "MENU.SUPPLIERS": "Tedarikçiler",
+    "MENU.WORKERS": "Çalışanlar",
+    "MENU.INCOME.EBILLS":"Gelen E-Faturalar",
+    "MENU.OUTLAY.EDOCUMENT":"Giden E-Belgeler",
+    "MENU.OUTLAY.REPORTS":"Gider Raporları",
+    "MENU.SALE.REPORTS":"Gelir Raporları",
+    "MENU.COLLECTION.REPORTS":"Tahsilat Raporları",
+    "MENU.PAYMENT.REPORTS":"Ödeme Raporları",
+    "MENU.KDV.REPORTS":"KDV Raporları",
+    "MENU.SERVICE.AND.PRODUCTS":"Hizmet ve Ürünler",
+    "MENU.DEFINITIONS":"Tanımlamalar",
+
+
+
+
+    "RECEIPTS.TITLE":"Serbest Meslek Makbuzu",
+    "RECEIPTS.NEW" : "Yeni Serbest Meslek Makbuzu",
+    "MENU.RECEIPTS.FILTER": "Makbuza Göre Filtrele",
+
+
+
+    "MENU.DEFINITIONS.AND.PRODUCT.CATEGORY":"Ürün Kategorileri",
+    "MENU.DEFINITIONS.AND.CUSTOMER.CATEGORY":"Müşteri Kategorileri",
+
+
+
+    "MENU.INCOME.BILLS": "Faturalar",
+    "MENU.INCOME.CUSTOMERS": "Müşteriler",
+    "MENU.INCOME.SELF-EMPLOYMENT_RECEIPT": "Serbest Meslek Makbuzu",
+
+    "MENU.OUTLAY.EXPENSE_DOCUMENTS": "Gider belgeleri",
+    "MENU.OUTLAY.SUPPLIERS": "Tedarikçiler",
+    "MENU.OUTLAY.EMPLOYEES": "Çalışanlar",
+
+    "MENU.CASH.SAFE_AND_BANKS": "Kasa ve Bankalar",
+    "MENU.CASH.CHECKS": "Çekler",
+
+    "MENU.PRODUCTS.SERVICE_AND_PRODUCTS": "Hizmet ve Ürünler",
+
+    "MENU.E-DOCUMENT.INCOMING_INVOICES": "Gelen e-Faturalar",
+    "MENU.E-DOCUMENT.SENT_E-DOCUMENTS": "Gönderilen e-Belgeler",
+
+    "MENU.REPORTS.SALES_REPORT": "Satış Raporu",
+    "MENU.REPORTS.EXPENSE_REPORT": "Gider Raporu",
+    "MENU.REPORTS.COLLECTION_REPORT": "Tahsilat Raporu",
+    "MENU.REPORTS.PAYMENTS_REPORT": "Ödemeler Raporu",
+    "MENU.REPORTS.KDV_REPORT": "KDV Raporu",
+    "MENU.USERS" : "Kullanıcılar",
+    "MENU.USERS.NEW_USER" : "Yeni Personel",
+    "LOGIN.TEXT" : "Telefon numaranızı ve şifrenizi giriniz",
+    "LOGIN.PHONE_NUMBER" : "Telefon numarası",
+    "LOGIN" : "Giriş Yap",
+    "MENU.EDIT"  :"Düzenle",
+    "MENU.FILTER"  :"Filtrele",
+    "MENU.CLEAN"  :"Temizle",
+    "MENU.SEARCH"  :"Ara",
+    "MENU.DELETE"  :"Sil",
+    "MENU.CANCEL" : "İptal",
+    "MENU.CLOSE" : "Kapat",
+    "MENU.SAVE" : "KAYDET",
+    "MENU.ADD" : "Ekle",
+    "MENU.ALL" : "Hepsi",
+    "MENU.BANK" : "Banka",
+    "MENU.CASE" : "Kasa",
+    "MENU.BANKS_CASES_FILTER_INPUT_MSG" : "Hesap ismi ile ara",
+    "MENU.BANKS_CASES_FILTER_MSG" : "Türüne göre filtrele",
+    "MENU.LOADING" : "Yükleniyor...",
+    "MENU.TABLE_NORECORD" : "Hiç sonuç bulunamadı...",
+    "MENU.ADD.CATEGORY" : "Kategori Ekle",
+    "MENU.ADD.SUB_CATEGORY" : "Alt Kategori Ekle",
+    "MENU.ADD.OPENING_PRICE" : "Açılış Bakiyesi Ekle",
+
+    "MENU.ADD.PRODUCT.CATEGORY" : "Kategori Ekle",
+    "MENU.ADD.PRODUCT.SUB_CATEGORY" : "Alt Kategori Ekle",
+    "MENU.ADD.PRODUCT.SUPER_CATEGORY" : "Üst Kategori Ekle",
+    
+
+    "MENU.USERS.FILTER_BY_TC_NO" : "TC Numarasına Göre Filtrele",
+    "MENU.INCOMINGEBILLS" : "Gelen E-Faturalar",
+    "MENU.OUTGOINGEBILLS" : "Giden E-Belgeler",
+    "MENU.INCOMINGEBILLS.NEW_INCOMINGEBILL" : "Yeni Gelen Belge",
+    "MENU.OUTGOINGEBILLS.NEW_OUTGOINGEBILL" : "Yeni Giden Belge"
+
+
+  }
+  
